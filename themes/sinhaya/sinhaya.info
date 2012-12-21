@@ -1,0 +1,13 @@
+name = Sinhaya
+description = ''
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+base theme = omega
+version = 1.x
+
+stylesheets[all][] = "css/grid.css"
+stylesheets[all][] = "css/basic.css"
+stylesheets[all][] = "css/layout.css"
+stylesheets[all][] = "css/main.css"
+stylesheets[all][] = "css/enterprise.css"
